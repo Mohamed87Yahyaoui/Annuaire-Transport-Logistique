@@ -1,6 +1,7 @@
 
 /*Table structure for table `addons` */
 
+
 DROP TABLE IF EXISTS `addons`;
 
 CREATE TABLE `addons` (
